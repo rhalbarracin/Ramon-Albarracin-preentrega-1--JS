@@ -43,15 +43,6 @@ let puntosAcumulados = calcularSuma(resultadoPartido1, resultadoPartido2);
    alert("Los puntos acumulados de " + nombreEquipo + " es " + puntosEquipo2);
 
 
-   // if(puntosEquipo1>=puntosEquipo2){
-   //    alert("El puntero tiene " + puntosEquipo1) 
-    
-    //}else{
-     //  alert("El puntero tiene " + puntosEquipo2) 
-    
-    //}
-
-
  }
   
 
